@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="summary.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.4296751"
+     inkscape:cx="335.30873"
+     inkscape:cy="198.4153"
+     inkscape:window-width="2494"
+     inkscape:window-height="1333"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke-width:0.25"
+       x="25.330349"
+       y="17.543253"
+       id="text238"><tspan
+         sodipodi:role="line"
+         id="tspan236"
+         style="stroke-width:0.25;fill:#000000"
+         x="25.330349"
+         y="17.543253" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:0.25"
+       x="13.370893"
+       y="19.589092"
+       id="text294"><tspan
+         sodipodi:role="line"
+         id="tspan292"
+         style="stroke:none;stroke-width:0.25"
+         x="13.370893"
+         y="19.589092">server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:0.25"
+       x="40.074432"
+       y="17.396227"
+       id="text348"><tspan
+         sodipodi:role="line"
+         id="tspan346"
+         style="stroke-width:0.25"
+         x="40.074432"
+         y="17.396227">virtual</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.25"
+         x="40.074432"
+         y="22.687891"
+         id="tspan350">machine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:0.25"
+       x="70.375328"
+       y="20.042057"
+       id="text354"><tspan
+         sodipodi:role="line"
+         id="tspan352"
+         style="stroke-width:0.25"
+         x="70.375328"
+         y="20.042057">Docker</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:#000000;stroke:none;stroke-width:0.25"
+       x="99.34729"
+       y="20.042057"
+       id="text358"><tspan
+         sodipodi:role="line"
+         id="tspan356"
+         style="stroke-width:0.25"
+         x="99.34729"
+         y="20.042057">Anaconda</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25;marker-end:url(#TriangleStart);stroke-dasharray:none"
+       d="m 29.104167,9.2604167 c 67.46875,0 67.46875,0 67.46875,0"
+       id="path1199" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.25;marker-start:url(#TriangleStart);stroke-dasharray:none"
+       d="m 29.10417,27.40068 c 67.468747,0 67.468747,0 67.468747,0"
+       id="path1199-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25"
+       x="35.71875"
+       y="31.75"
+       id="text3053"><tspan
+         sodipodi:role="line"
+         id="tspan3096"
+         x="35.71875"
+         y="31.75">Increasing isolation from other systems</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25"
+       x="39.413746"
+       y="7.450665"
+       id="text3053-5"><tspan
+         sodipodi:role="line"
+         id="tspan3098"
+         x="39.413746"
+         y="7.450665">Decreasing complexity of setting up</tspan></text>
+  </g>
+</svg>

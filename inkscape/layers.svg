@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85mm"
+   height="40mm"
+   viewBox="0 0 85 40"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="layers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="3.2046027"
+     inkscape:cx="230.29376"
+     inkscape:cy="122.16803"
+     inkscape:window-width="2494"
+     inkscape:window-height="1333"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.262413;stroke-dasharray:none"
+       id="rect236"
+       width="58.159248"
+       height="6.5497456"
+       x="22.514126"
+       y="26.523169" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       id="rect346"
+       width="12.925446"
+       height="3.7260883"
+       x="27.925232"
+       y="13.468944" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       id="rect346-35-2"
+       width="47.219006"
+       height="3.9611685"
+       x="28.030621"
+       y="19.876165" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       id="rect346-35-6"
+       width="12.99605"
+       height="3.9687514"
+       x="62.46954"
+       y="13.282546" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       id="rect346-35-6-3"
+       width="12.99605"
+       height="3.9687514"
+       x="43.849422"
+       y="13.075276" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="38.536579"
+       y="29.432917"
+       id="text4103"><tspan
+         sodipodi:role="line"
+         id="tspan4155"
+         x="38.536579"
+         y="29.432917">Microsoft Windows</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4157"
+         x="38.536579"
+         y="32.078754">Server 2012 R2 Datacentre</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="37.323742"
+       y="22.013998"
+       id="text4103-6"><tspan
+         sodipodi:role="line"
+         id="tspan4198"
+         x="37.323742"
+         y="22.013998">Microsoft Windows Hyper-V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="31.742119"
+       y="15.907414"
+       id="text4103-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4307"
+         x="31.742119"
+         y="15.907414">VM-1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="47.822598"
+       y="15.856101"
+       id="text4103-6-7-6"><tspan
+         sodipodi:role="line"
+         id="tspan4307-7"
+         x="47.822598"
+         y="15.856101">VM-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="58.235241"
+       y="15.848718"
+       id="text4103-6-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan4303"
+         x="58.235241"
+         y="15.848718">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="66.32225"
+       y="16.05319"
+       id="text4103-6-7-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan4305"
+         x="66.32225"
+         y="16.05319">VM-n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="8.2026653"
+       y="30.43833"
+       id="text4869"><tspan
+         sodipodi:role="line"
+         id="tspan4867"
+         style="fill:#000000;stroke:none;stroke-width:0.25"
+         x="8.2026653"
+         y="30.43833">Server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="2.637954"
+       y="18.838999"
+       id="text4873"><tspan
+         sodipodi:role="line"
+         id="tspan4871"
+         style="stroke-width:0.25"
+         x="2.637954"
+         y="18.838999">Virtual machines</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.25;stroke-dasharray:none"
+       x="2.4939959"
+       y="7.4619107"
+       id="text4873-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan4908-2"
+         x="2.4939959"
+         y="7.4619107">Docker containers</tspan><tspan
+         sodipodi:role="line"
+         x="2.4939959"
+         y="10.107748"
+         id="tspan1771">and Docker Engine</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-dasharray:none;marker-start:url(#Arrow1);marker-end:url(#Arrow1)"
+       d="m 54.231703,11.938664 v -1.322916 h 10.583333 v 1.322916"
+       id="path554" />
+    <g
+       id="g1563"
+       transform="translate(-10.591214,-17.165503)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+         id="rect346-3-6-7-5"
+         width="2.4942718"
+         height="2.7396176"
+         x="39.839062"
+         y="22.442692" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+         id="rect346-3-6-7-5-9"
+         width="2.4942718"
+         height="2.7396176"
+         x="43.732033"
+         y="22.3958" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+         id="rect346-3-6-7-5-9-1"
+         width="2.4942718"
+         height="2.7396176"
+         x="47.700783"
+         y="22.395798" />
+      <path
+         style="fill:none;stroke:#ff0000;stroke-width:0.25;stroke-dasharray:none;marker-start:url(#Arrow1);marker-end:url(#Arrow1)"
+         d="m 40.926633,21.183014 v -1.261578 h 4.011317 v 1.261578"
+         id="path554-5" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       id="rect1629"
+       width="10.583333"
+       height="2.6458333"
+       x="29.096287"
+       y="9.2928324" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       d="M 25.127537,5.324081 H 23.80462 v 6.614583 h 1.322917"
+       id="path1687" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.25;stroke-dasharray:none"
+       d="M 25.127537,13.261581 H 23.80462 v 10.583333 h 1.322917"
+       id="path1689" />
+  </g>
+</svg>

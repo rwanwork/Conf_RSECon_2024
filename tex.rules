@@ -1,0 +1,32 @@
+rule datestamp:
+  input:  "{name}.pdf"
+  output: "{name}.done"
+  shell:
+    """
+    export TODAY=`date +"%Y-%m-%d"`
+    
+    cp {wildcards.name}.pdf $TODAY.pdf
+    
+    touch {wildcards.name}.done
+    """
+
+rule tex2pdf_without_bib:
+    input:
+        '{name}.tex',
+        '{name}.bib'
+    output:
+        '{name}.pdf'
+    shell:
+        """
+        lualatex {wildcards.name}
+        lualatex {wildcards.name}
+        """
+
+rule clean:
+    shell:
+        "rm -f *~ *.backup *.bak *.bbl *.blg *.aux *.dep *.log *.bm *.toc *.nav *.out *.snm *.bcf *.run.xml *.dvi *.ps *.lof *.lot *.done 20??-??-??.pdf"
+
+rule clobber:
+    shell:
+        "rm -f *~ *.backup *.bak *.bbl *.blg *.aux *.dep *.log *.bm *.toc *.nav *.out *.snm *.bcf *.run.xml *.dvi *.ps *.lof *.lot *.done"
+
