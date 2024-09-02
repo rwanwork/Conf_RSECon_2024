@@ -20,7 +20,7 @@ The original template made use of the Arial font.  In order to use this font und
 
 ## Copyright and License
 
-Copyright (C) 2003-2024 by Raymond Wan (rwan.work@gmail.com or raymond.wan@manchester.ac.uk)
+Copyright (C) 2024 by Raymond Wan (rwan.work@gmail.com or raymond.wan@manchester.ac.uk)
 
-This source code is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.  Please see the accompanying file, LICENSE for further details.
+These slides and its LaTeX source code are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.  See [this](https://creativecommons.org/licenses/by-nc-sa/4.0/}{https://creativecommons.org/licenses/by-nc-sa/4.0/) or the accompanying LICENSE file for further details.
 
