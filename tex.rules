@@ -12,8 +12,7 @@ rule datestamp:
 
 rule tex2pdf_without_bib:
     input:
-        '{name}.tex',
-        '{name}.bib'
+        '{name}.tex'
     output:
         '{name}.pdf'
     shell:
@@ -24,9 +23,9 @@ rule tex2pdf_without_bib:
 
 rule clean:
     shell:
-        "rm -f *~ *.backup *.bak *.bbl *.blg *.aux *.dep *.log *.bm *.toc *.nav *.out *.snm *.bcf *.run.xml *.dvi *.ps *.lof *.lot *.done 20??-??-??.pdf"
+        "rm -f *~ *.backup *.bak *.bbl *.blg *.aux *.dep *.log *.bm *.toc *.nav *.out *.snm *.bcf *.run.xml *.dvi *.ps *.lof *.lot *.done"
 
 rule clobber:
     shell:
-        "rm -f *~ *.backup *.bak *.bbl *.blg *.aux *.dep *.log *.bm *.toc *.nav *.out *.snm *.bcf *.run.xml *.dvi *.ps *.lof *.lot *.done"
+        "rm -f *~ *.backup *.bak *.bbl *.blg *.aux *.dep *.log *.bm *.toc *.nav *.out *.snm *.bcf *.run.xml *.dvi *.ps *.lof *.lot *.done 20??-??-??.pdf p.pdf"
 

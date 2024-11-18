@@ -1,5 +1,6 @@
 ## Snakemake-related
 .snakemake
+p.done
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
