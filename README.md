@@ -1,6 +1,8 @@
 # RSECon 2024
 
-These are the slides that will be presented at the Research Software Engineering Conference 2024 in Newcastle, UK on 4 September 2024.  The slides were made using LaTeX.  (If you're only interested in the slides, it is the [p.pdf](https://github.com/rwanwork/Conf_RSECon_2024/blob/main/p.pdf) in the main directory -- no compiling necessary.)
+These are the slides that were presented at the Research Software Engineering Conference 2024 in Newcastle, UK on 4 September 2024.  The slides were made using LaTeX.  (If you're only interested in the slides, it is the [p.pdf](https://github.com/rwanwork/Conf_RSECon_2024/blob/main/p.pdf) in the main directory -- no compiling necessary.)
+
+A recording of this talk was made by the organisers of RSECon 2024.  You can view it on [YouTube](https://youtu.be/1Y-MFPcoyIY?si=P6jloTsl6HcXugXq).
 
 
 ##  Template
